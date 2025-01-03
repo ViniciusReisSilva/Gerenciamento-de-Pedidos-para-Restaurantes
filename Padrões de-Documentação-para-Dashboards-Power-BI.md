@@ -116,3 +116,7 @@ Embora não exista um **padrão único** para a documentação de dashboards Pow
 5. **Revise com os Stakeholders**: Após concluir a documentação, peça feedback de usuários finais e da equipe de TI para garantir que o material esteja claro e completo.
 
 Com essas orientações, você terá uma base sólida para documentar os Dashboards Power BI de forma eficaz e organizada.
+
+### **Links para consulta:**
+Nesta página escrita na plataforma Medium, tem um conjunto de dicas e boas práticas para se documentar Dasboards BI, sempre que for fazer uma documentação, ler esta pagina para validação e verificar se não faltam informações na documentação
+- [Power BI Community Forum](https://medium.com/@soraiacarvalho200/como-fazer-uma-documenta%C3%A7%C3%A3o-de-um-projeto-bi-6c8d95ac8576)
